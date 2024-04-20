@@ -7,7 +7,8 @@ This time around, I'm picking up where I left off with a twist: I'll be tackling
 
 Same prompts
 100 days,
-UI design + Code...
+UI design + Code
+
 April 20th 2024 - 29th June, 2024
 
 
