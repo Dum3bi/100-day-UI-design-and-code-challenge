@@ -8,7 +8,7 @@ This time around, I'm picking up where I left off with a twist: I'll be tackling
 Same prompts
 100 days,
 UI design + Code
-
+---
 **April 20th 2024 - 29th June, 2024**
 
 
@@ -17,7 +17,7 @@ UI design + Code
 
 ---
 
-##[Daily UI Prompts](https://www.dailyui.co/)
+## [Daily UI Prompts](https://www.dailyui.co/)
 
 
 1. Sign Up
