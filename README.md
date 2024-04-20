@@ -1,4 +1,4 @@
-# Documenting my 100days Daily UI Design challenge
+# Documenting my 100 days Daily UI Design challenge
 
 
 
