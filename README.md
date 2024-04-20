@@ -5,7 +5,7 @@
 In 2019, I kicked off my product design adventure with the Daily UI challenge, but life got busy and I wasn't able to finish it.
 This time around, I'm picking up where I left off with a twist: I'll be tackling the daily prompts by not only designing the UI, but also building it in code!
 
-Same prompts
+
 100 days,
 UI design + Code
 ---
