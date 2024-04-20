@@ -1,7 +1,7 @@
 <a name="top"></a>
 
 <h1 align="center">
-The Ultimate Markdown Cheat Sheet
+:black_circle: The Ultimate Markdown Cheat Sheet :black_circle:
 </h1>
 
 <br/>
