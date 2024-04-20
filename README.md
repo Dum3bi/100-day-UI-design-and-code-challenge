@@ -12,7 +12,7 @@ UI design + Code
 
 **April 20th 2024 - 29th June, 2024**
 
-
+![An image of Yoda from Star wars with the quote; "Do or do not,there is no try- Yoda"](images/yoda-quote.jpeg)
 > Do or do not,there is no try
 > ~ Master Yoda
 
