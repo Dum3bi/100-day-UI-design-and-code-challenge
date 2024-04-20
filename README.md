@@ -12,6 +12,9 @@ UI design + Code
 **April 20th 2024 - 29th June, 2024**
 
 
+> Do or do not,
+> there is no try
+> -Master Yoda
 
 
 
