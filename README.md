@@ -17,7 +17,7 @@ UI design + Code
 
 ---
 
-[Daily UI Prompts](https://www.dailyui.co/)
+##[Daily UI Prompts](https://www.dailyui.co/)
 
 
 1. Sign Up
