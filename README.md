@@ -19,7 +19,7 @@ UI design + Code
 ## [Daily UI Prompts](https://www.dailyui.co/)
 
 
-[x] Sign Up
+- [x] Sign Up
 2. Credit Card Checkout
 3. Landing Page (above the fold)
 4. Calculator
