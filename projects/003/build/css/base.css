@@ -1,0 +1,90 @@
+body {
+  display: flex;
+  width: 1440px;
+  height: 982px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+  background: #000000;
+    }
+  
+  .logo {
+    width: 24.28px;
+    height: 32px;
+    position: absolute;
+    right: 743.72px;
+    top: 50px;
+  }
+
+  .section-content {
+    display: flex;
+    width: 1512px;
+    height: 982px;
+    padding: 40px 10px;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 720px;
+    flex-shrink: 0;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.00) 65.53%, rgba(0, 0, 0, 0.50) 100%), url("https://github.com/Dum3bi/100-day-UI-design-and-code-challenge/blob/7dbcb940d3f46403ce267991ef12b7908f89b4b1/projects/003/build/images/Rolls-Royce-Spectre.jpg?raw=true") lightgray 50% / cover no-repeat;
+  }
+
+  .cta {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 32px;
+  }
+
+.product {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.spectre {
+  color: #FFF;
+  text-align: center;
+  font-family: "Plus Jakarta Sans";
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 200;
+  line-height: 42px; /* 131.25% */
+  letter-spacing: 100px;
+}
+
+.range {
+  color: #FFF;
+  text-align: center;
+  font-family: "Plus Jakarta Sans";
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 200;
+  line-height: 42px; /* 280% */
+  letter-spacing: 3px;
+}
+
+button {
+  border-radius: 25px;
+  border: 1px solid #000;
+  background: #FFF;
+display: flex;
+height: 50px;
+padding: 16px 32px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+
+
+color: #000;
+text-align: center;
+font-family: "Plus Jakarta Sans";
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+line-height: 16px; /* 133.333% */
+letter-spacing: 2px;
+}
