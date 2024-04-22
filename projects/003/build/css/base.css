@@ -1,32 +1,32 @@
 body {
   display: flex;
   width: 1440px;
-  height: 982px;
+  height: 960px;
   flex-direction: column;
   align-items: flex-start;
-  gap: 8px;
-  background: #000000;
+  gap: 0px;
+  background: #ffffff;
+  margin: 0px;
     }
   
   .logo {
     width: 24.28px;
     height: 32px;
     position: absolute;
-    right: 743.72px;
+    right: 707.72px;
     top: 50px;
   }
 
   .section-content {
     display: flex;
-    width: 1512px;
-    height: 982px;
-    padding: 40px 10px;
-    flex-direction: column;
-    justify-content: flex-end;
-    align-items: center;
-    gap: 720px;
-    flex-shrink: 0;
-    background: linear-gradient(180deg, rgba(0, 0, 0, 0.00) 65.53%, rgba(0, 0, 0, 0.50) 100%), url("https://github.com/Dum3bi/100-day-UI-design-and-code-challenge/blob/7dbcb940d3f46403ce267991ef12b7908f89b4b1/projects/003/build/images/Rolls-Royce-Spectre.jpg?raw=true") lightgray 50% / cover no-repeat;
+   padding: 40px 10px;
+   flex-direction: column;
+   justify-content: flex-end;
+   align-items: center;
+   gap: 720px;
+   flex: 1 0 0;
+   align-self: stretch;
+   background: linear-gradient(180deg, rgba(0, 0, 0, 0.00) 65.53%, rgba(0, 0, 0, 0.50) 100%), url("https://github.com/Dum3bi/100-day-UI-design-and-code-challenge/blob/7dbcb940d3f46403ce267991ef12b7908f89b4b1/projects/003/build/images/Rolls-Royce-Spectre.jpg?raw=true") lightgray 50% / cover no-repeat;
   }
 
   .cta {
@@ -42,7 +42,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  gap: 10px;
+  gap: 25px;
 }
 
 .spectre {
@@ -53,7 +53,7 @@ body {
   font-style: normal;
   font-weight: 200;
   line-height: 42px; /* 131.25% */
-  letter-spacing: 100px;
+  letter-spacing: 80px;
 }
 
 .range {
@@ -87,4 +87,8 @@ font-style: normal;
 font-weight: 400;
 line-height: 16px; /* 133.333% */
 letter-spacing: 2px;
+}
+
+p {
+  margin: 0;
 }
