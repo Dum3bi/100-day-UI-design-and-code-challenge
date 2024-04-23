@@ -21,7 +21,7 @@ UI design + Code
 
 - [x] Sign Up
 - [x] Credit Card Checkout
-3. Landing Page (above the fold)
+- [x] Landing Page (above the fold)
 4. Calculator
 5. App Icon
 6. User Profile
