@@ -16,7 +16,7 @@ flex-direction: column;
 justify-content: center;
 align-items: center;
 gap: 8px;
-background: url("<path-to-image>") lightgray 50% / cover no-repeat;
+background: url("https://github.com/Dum3bi/100-day-UI-design-and-code-challenge/blob/f4daa378bcaaf980c46d40f497c9a1399f1fbf35/projects/004/build/images/iphone.png?raw=true") lightgray 0% / cover no-repeat;
 }
 
 /* Calculator Styling */
